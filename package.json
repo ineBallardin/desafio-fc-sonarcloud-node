@@ -1,0 +1,24 @@
+{
+  "name": "desafio-fc-sonarcloud-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ineBallardin/desafio-fc-sonarcloud-node.git"
+  },
+  "author": "ine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ineBallardin/desafio-fc-sonarcloud-node/issues"
+  },
+  "homepage": "https://github.com/ineBallardin/desafio-fc-sonarcloud-node#readme",
+  "dependencies": {
+    "@types/jest": "^29.5.4",
+    "jest": "^29.6.4",
+    "sonar-scanner": "^3.1.0"
+  }
+}
